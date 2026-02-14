@@ -1,6 +1,6 @@
 // 1.Temperature of a city in degrees Celsius: 25.5;
 let temperature : number = 25.5;
-console.log("Temperature of a city in degrees Celsius: " +temperature);
+console.log("Temperature of a city in degrees Celsius: " + temperature);
 
 //2.Whether a customer has placed an order: true or false
 let orderPlaced : boolean = true;
