@@ -20,6 +20,10 @@
     "declaration": true,
     "declarationMap": true,
 
+    // Adding module configuration to allow importing .ts files with extensions
+    "noEmit": true,
+    "allowImportingTsExtensions": true,
+
     // Stricter Typechecking Options
     "noUncheckedIndexedAccess": false,
     "exactOptionalPropertyTypes": true,
